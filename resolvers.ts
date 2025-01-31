@@ -78,6 +78,5 @@ export const resolvers = {
                 const data = await getT.json()
                 return data.temperatura
         }
-
     }
 }
